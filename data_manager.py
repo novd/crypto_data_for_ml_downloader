@@ -4,9 +4,8 @@ import warnings
 import matplotlib.pyplot as plt
 
 # api website : https://www.cryptocompare.com/cryptopian/api-keys
-# my account there : bocik1samolocik
 
-api_key = "d00cbab5ef5ac2018da3e970bd26591a24e134185d3c0ca21be7d38fe887254e"
+api_key = "asdasdw124tgsd5_top_secret_api_key_324908712klsafjiae"
 
 
 def get_historical_data(type, cryptocurrency_symbol="BTC", real_currency_symbol="USD", limit=100, time_stamp_limit=None):
